@@ -1,0 +1,20 @@
+{
+  "name": "cypressbddqa20232",
+  "version": "1.0.0",
+  "description": "FACULDADE: Repositório para BDD com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IcaroRaphael/cypressbddqa20232.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IcaroRaphael/cypressbddqa20232/issues"
+  },
+  "homepage": "https://github.com/IcaroRaphael/cypressbddqa20232#readme"
+}
